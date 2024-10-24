@@ -554,18 +554,17 @@ video {
   display: none;
 }
 
-.bg-blue-500 {
+.bg-yellow-500 {
   --tw-bg-opacity: 1;
-  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
-}
-
-.bg-purple-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(168 85 247 / var(--tw-bg-opacity));
+  background-color: rgb(234 179 8 / var(--tw-bg-opacity));
 }
 
 .p-4 {
   padding: 1rem;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .text-white {
